@@ -1,0 +1,15 @@
+﻿{
+  "name": "Nigoto Hub",
+  "short_name": "Nigoto Hub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1b3a4b",
+  "theme_color": "#1b3a4b",
+  "icons": [
+    {
+      "src": "/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
